@@ -6,3 +6,8 @@ print('Esse mês seu salário tera um aumento de 15%')
 n2 = 0.15
 n3 = n2 * n1
 print('Salário com aumento {} = '.format(n1+n3))
+
+n=int(input('digite um número:'))
+a = n - 1
+s = n + 1
+print('analisando o valor {}, seu antecessor é {} e o sucessor é {}'.format(n,a,s))
