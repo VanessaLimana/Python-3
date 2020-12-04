@@ -1,0 +1,1 @@
+print('exemplo de heapq / estudar')
